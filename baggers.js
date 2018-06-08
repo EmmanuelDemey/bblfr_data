@@ -9620,6 +9620,13 @@ var data = {
           tags: ['JavaScript', 'PWA', 'Offline', 'Mobile', 'ServiceWorker'],
           lang: ['fr'],
         },
+        {
+          title: "Mise en place d'une plateforme centralisée de gestion des logs avec la suite elastic",
+          abstract:
+            "La suite elastic (Elasticsearch, Logstash, Kibana, Beats, ...) est connue et reconnue lorsque nous désirons mettre en place soit une solution de recherche sur notre site d'e-commerce ou encore une plateforme centralisée de gestion des logs. Si vous n'avez jamais eu l'occasion de jouer avec ou de la mettre en place dans votre entreprise, ce BBL est pour vous. Je vais mettre place, en partant from scratch, une plateforme complète de gestion des logs de vos applications et de vos serveurs : de la récupération des logs, à sa visualisation en passant par sa transformation et son indexation... J'en profiterai également pour aborder des produits moins connus comme X-PACK, Elastic APM ou encore Elastic Cloud.",
+          tags: ['Elasticsearch', 'APM', 'Beats', 'Logstash'],
+          lang: ['fr'],
+        },
       ],
       cities: ['Lille'],
       contacts: {
