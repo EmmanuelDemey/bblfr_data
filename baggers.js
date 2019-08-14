@@ -9563,7 +9563,7 @@ var data = {
       cities: ['Lille'],
       contacts: {
         twitter: 'EmmanuelDemey',
-        mail: 'emmanuel.demey@zenika.com',
+        mail: 'demey.emmanuel@gmail.com',
       },
     },
     {
